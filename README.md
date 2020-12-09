@@ -18,6 +18,6 @@ Below are links to the wiki of important takeaways from the course that I'll use
 
 [**1. Javascript Basics**](https://github.com/YensZAF/js-tutorial-projects/wiki/Javascript-Basics "Javascript Basics")
 
-[**1. Javascript Continued**](https://github.com/YensZAF/js-tutorial-projects/wiki/Javascript-Continued "Javascript Continued")
+[**2. Javascript Continued**](https://github.com/YensZAF/js-tutorial-projects/wiki/Javascript-Continued "Javascript Continued")
 
-[**2. Document Object Model (in progress...)**](# "The DOM")
+[**3. Document Object Model (in progress...)**](# "The DOM")

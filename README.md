@@ -20,4 +20,6 @@ Below are links to the wiki of important takeaways from the course that I'll use
 
 [**2. Javascript Continued**](https://github.com/YensZAF/js-tutorial-projects/wiki/Javascript-Continued "Javascript Continued")
 
-[**3. Document Object Model (in progress...)**](# "The DOM")
+[**3. Document Object Model**](https://github.com/YensZAF/js-tutorial-projects/wiki/Document-Object-Model "The DOM")
+
+**4. (in progress..)**

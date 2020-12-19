@@ -8,7 +8,7 @@ Below are links to the static project pages to showcase and test for yourself.
 
 ## Projects:
 
-**1. Project Placholder**
+=> [**Project Landing Page**](https://yenszaf.github.io/js-tutorial-projects/ "Projects") (Preview all projects)
 
 <br>
 

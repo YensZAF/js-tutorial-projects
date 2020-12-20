@@ -8,13 +8,17 @@ Below are links to the static project pages to showcase and test for yourself.
 
 ## Projects:
 
-=> [**Project Landing Page**](https://yenszaf.github.io/js-tutorial-projects/ "Projects") (Preview all projects)
+> Preview all completed projects
+
+[**Projects Landing Page**](https://yenszaf.github.io/js-tutorial-projects/ "Projects") 
 
 <br>
 
-Below are links to the wiki of important takeaways from the course that I'll use for future reference.
+
 
 ## Notes:
+
+> Below are links to the wiki of important takeaways from the course that I'll use for future reference.
 
 [**1. Javascript Basics**](https://github.com/YensZAF/js-tutorial-projects/wiki/Javascript-Basics "Javascript Basics")
 
